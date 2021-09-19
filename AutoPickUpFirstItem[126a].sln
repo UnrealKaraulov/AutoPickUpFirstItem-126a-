@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoPickUpFirstItem[126a]", "AutoPickUpFirstItem[126a]\AutoPickUpFirstItem[126a].vcxproj", "{0A3AFFEF-6387-4781-8B9D-9DBF7A3F0007}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoPickUpFirstItem[127a]", "AutoPickUpFirstItem[127a]\AutoPickUpFirstItem[127a].vcxproj", "{65E65A77-9244-44F3-B4E0-7191B9ABB0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A3AFFEF-6387-4781-8B9D-9DBF7A3F0007}.Release|Win32.ActiveCfg = Release|Win32
+		{0A3AFFEF-6387-4781-8B9D-9DBF7A3F0007}.Release|Win32.Build.0 = Release|Win32
+		{65E65A77-9244-44F3-B4E0-7191B9ABB0D9}.Release|Win32.ActiveCfg = Release|Win32
+		{65E65A77-9244-44F3-B4E0-7191B9ABB0D9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
